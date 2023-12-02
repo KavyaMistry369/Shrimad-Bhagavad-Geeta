@@ -44,13 +44,18 @@ languages, enabling users to read and study the Bhagvat Geeta in their preferred
 making the app inclusive and accessible to a wider audience.
 
 
-![Screenshot 2023-07-22 143848](https://github.com/KavyaMistry369/shrimad_bhagvad_geeta_app/assets/130814792/e4f9884f-bed9-474d-ae51-fb00519af6dd)
-![Screenshot 2023-07-22 143913](https://github.com/KavyaMistry369/shrimad_bhagvad_geeta_app/assets/130814792/aab05925-a826-4858-bcd7-36e9799d3adf)
-![Screenshot 2023-07-22 143948](https://github.com/KavyaMistry369/shrimad_bhagvad_geeta_app/assets/130814792/7ba21988-b800-43d0-acd1-818cb7c49b8d)
-![Screenshot 2023-07-22 144009](https://github.com/KavyaMistry369/shrimad_bhagvad_geeta_app/assets/130814792/ee52ed6d-e58a-4293-9511-0c0de91e59b6)
-![Screenshot 2023-07-22 144026](https://github.com/KavyaMistry369/shrimad_bhagvad_geeta_app/assets/130814792/72fa88a1-2325-4436-ae8b-368816bbda96)
+
+https://github.com/KavyaMistry369/shrimad_bhagvad_geeta_app-master/assets/130814792/48c44531-ddf5-4191-b48f-5a3fc6823bad
 
 
-https://github.com/KavyaMistry369/shrimad_bhagvad_geeta_app/assets/130814792/3085fac6-c766-408b-be3e-91eec75977b6
+
+<img src="https://github.com/KavyaMistry369/shrimad_bhagvad_geeta_app-master/assets/130814792/e49964db-b505-44ff-b2af-867f60489363" width="350px">
+<img src="https://github.com/KavyaMistry369/shrimad_bhagvad_geeta_app-master/assets/130814792/2e5d6736-6d94-4af0-bd77-dbd07a2dd11c" width="350px">
+<img src="https://github.com/KavyaMistry369/shrimad_bhagvad_geeta_app-master/assets/130814792/3d47b2b1-c23b-4c68-9b9c-a7411c5a4732" width="350px">
+<img src="https://github.com/KavyaMistry369/shrimad_bhagvad_geeta_app-master/assets/130814792/6752ea0b-7f7c-46f6-927f-c714ed804127" width="350px">
+
+
+
+
 
 
