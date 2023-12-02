@@ -1,0 +1,502 @@
+[
+
+  {
+    "authorName": "Swami Gambirananda",
+    "author_id": 19,
+    "description": "Dhṛtarāṣṭra said: O Sanjaya, what did my sons and the sons of Pandu do when they assembled on the sacred field of Kurukshetra, eager for battle?",
+    "id": 4,
+    "lang": "english",
+    "language_id": 1,
+    "verseNumber": 1,
+    "verse_id": 1
+  },
+  {
+    "authorName": "Dr. S. Sankaranarayan",
+    "author_id": 20,
+    "description": "Sanjaya said: Seeing the army of the sons of Pandu marshaled in military array, the prince Duryodhana approached the teacher Drona and spoke these words at that time:",
+    "id": 13,
+    "lang": "english",
+    "language_id": 1,
+    "verseNumber": 2,
+    "verse_id": 2
+  },
+  {
+    "authorName": "Shri Purohit Swami",
+    "author_id": 21,
+    "description": "Revered Father! Behold this mighty host of the Pandavas, paraded by the son of King Drupada, your wise disciple.",
+    "id": 21,
+    "lang": "english",
+    "language_id": 1,
+    "verseNumber": 3,
+    "verse_id": 3
+  },
+  {
+    "authorName": "Shri Purohit Swami",
+    "author_id": 21,
+    "description": "In it are heroes and great bowmen; the equals in battle of Arjuna, Bheema, Yuyudhana, Virata, and Drupada—all great soldiers.",
+    "id": 28,
+    "lang": "english",
+    "language_id": 1,
+    "verseNumber": 4,
+    "verse_id": 4
+  },
+  {
+    "authorName": "Swami Adidevananda",
+    "author_id": 18,
+    "description": "Dhrstaketu, Cekitana, the valiant king of Kasi, Purujit, Kuntibhoja, and Saibya, the best among men;",
+    "id": 31,
+    "lang": "english",
+    "language_id": 1,
+    "verseNumber": 5,
+    "verse_id": 5
+  },
+  {
+    "authorName": "Swami Adidevananda",
+    "author_id": 18,
+    "description": "Yudhamanyu, the valiant one, and Uttamaujas, the strong one; and also the son of Subhadra, as well as the sons of Draupadi, all mighty warriors.",
+    "id": 38,
+    "lang": "english",
+    "language_id": 1,
+    "verseNumber": 6,
+    "verse_id": 6
+  },
+  {
+    "authorName": "Swami Gambirananda",
+    "author_id": 19,
+    "description": "But, O best among the Brahmanas, please be appraised of those who are foremost among us, the founders of my army. I speak of them to you by way of illustration.",
+    "id": 46,
+    "lang": "english",
+    "language_id": 1,
+    "verseNumber": 7,
+    "verse_id": 7
+  },
+  {
+    "authorName": "Swami Adidevananda",
+    "author_id": 18,
+    "description": "Yourself, Bhisma, Karna, the victorious Krpa, Asvatthama, Vikarna, and Jayadratha, the son of Somadatta;",
+    "id": 52,
+    "lang": "english",
+    "language_id": 1,
+    "verseNumber": 8,
+    "verse_id": 8
+  },
+  {
+    "authorName": "Swami Adidevananda",
+    "author_id": 18,
+    "description": "And there are many other heroes who are determined to give up their lives for my sake. They are all experts in using manifold missiles and dexterous in battle.",
+    "id": 59,
+    "lang": "english",
+    "language_id": 1,
+    "verseNumber": 9,
+    "verse_id": 9
+  },
+  {
+    "authorName": "Swami Adidevananda",
+    "author_id": 18,
+    "description": "Our force is inadequate, guarded by Bhisma, while their force is adequate, guarded by Bhima.",
+    "id": 66,
+    "lang": "english",
+    "language_id": 1,
+    "verseNumber": 10,
+    "verse_id": 10
+  },
+  {
+    "authorName": "Shri Purohit Swami",
+    "author_id": 21,
+    "description": "Therefore, let the rank and file stand firm in their posts according to battalions, and all you generals around Bheeshma.",
+    "id": 77,
+    "lang": "english",
+    "language_id": 1,
+    "verseNumber": 11,
+    "verse_id": 11
+  },
+  {
+    "authorName": "Shri Purohit Swami",
+    "author_id": 21,
+    "description": "Then, to enliven his spirits, the brave Grandfather Bheeshma, the eldest of the Kuru clan, blew his conch, its sound resembling that of a lion's roar.",
+    "id": 84,
+    "lang": "english",
+    "language_id": 1,
+    "verseNumber": 12,
+    "verse_id": 12
+  },
+
+  {
+    "authorName": "Swami Adidevananda",
+    "author_id": 18,
+    "description": "Then suddenly conchs, kettle drums, trumpets, tabors, and blow horns blared forth, and the sound was terrific.",
+    "id": 87,
+    "lang": "english",
+    "language_id": 1,
+    "verseNumber": 13,
+    "verse_id": 13
+  },
+
+  {
+    "authorName": "Swami Adidevananda",
+    "author_id": 18,
+    "description": "Then Sri Krishna and Arjuna, stationed in their great chariot yoked with white horses, blew their divine conchs.",
+    "id": 94,
+    "lang": "english",
+    "language_id": 1,
+    "verseNumber": 14,
+    "verse_id": 14
+  },
+
+  {
+    "authorName": "Swami Adidevananda",
+    "author_id": 18,
+    "description": "Sri Krishna blew his conch, Pancajanya, Arjuna his Devadatta, and Bhima of terrible deeds blew his great conch, Paundra.",
+    "id": 101,
+    "lang": "english",
+    "language_id": 1,
+    "verseNumber": 15,
+    "verse_id": 15
+  },
+
+  {
+    "authorName": "Swami Adidevananda",
+    "author_id": 18,
+    "description": "King Yudhisthira, the son of Kunti, blew his conch, Anantavijaya, and Nakula and Sahadeva blew their conchs, Sughosa and Manipuspaka.",
+    "id": 108,
+    "lang": "english",
+    "language_id": 1,
+    "verseNumber": 16,
+    "verse_id": 16
+  },
+
+  {
+    "authorName": "Swami Adidevananda",
+    "author_id": 18,
+    "description": "And the King of Kasi, the supreme bowman, Sikandi the mighty warrior, Dhrstadyumna, and Virata; and Satyaki, the invincible;",
+    "id": 115,
+    "lang": "english",
+    "language_id": 1,
+    "verseNumber": 17,
+    "verse_id": 17
+  },
+
+  {
+    "authorName": "Swami Adidevananda",
+    "author_id": 18,
+    "description": "Drupada and the sons of Draupadi, as well as the strong-armed son of Subhadra—all, O King, blew their respective conchs again and again.",
+    "id": 122,
+    "lang": "english",
+    "language_id": 1,
+    "verseNumber": 18,
+    "verse_id": 18
+  },
+
+  {
+    "authorName": "Swami Adidevananda",
+    "author_id": 18,
+    "description": "And that tumultuous uproar, reverberating through heaven and earth, rent the hearts of Dhrtarastra's sons.",
+    "id": 129,
+    "lang": "english",
+    "language_id": 1,
+    "verseNumber": 19,
+    "verse_id": 19
+  },
+
+  {
+    "authorName": "Swami Adidevananda",
+    "author_id": 18,
+    "description": "Then Arjuna, whose banner crest was Hanuman, on beholding the sons of Dhrtarastra arrayed, took up his bow, while missiles were beginning to fly.",
+    "id": 136,
+    "lang": "english",
+    "language_id": 1,
+    "verseNumber": 20,
+    "verse_id": 20
+  },
+  {
+    "authorName": "Swami Adidevananda",
+    "author_id": 18,
+    "description": "And he spoke, O Lord of the Earth, these words to Sri Krishna: Arjuna said, “Draw up my chariot, O Krishna, between the two armies.",
+    "id": 143,
+    "lang": "english",
+    "language_id": 1,
+    "verseNumber": 21,
+    "verse_id": 21
+  },
+  {
+    "authorName": "Swami Adidevananda",
+    "author_id": 18,
+    "description": "So that I may have a good look at those who are standing, eager to fight, and know with whom I must fight in this enterprise of war.",
+    "id": 150,
+    "lang": "english",
+    "language_id": 1,
+    "verseNumber": 22,
+    "verse_id": 22
+  },
+  {
+    "authorName": "Swami Adidevananda",
+    "author_id": 18,
+    "description": "I wish to see those gathered here ready to fight in this battle in order to please the evil-minded son of Dhrtarashtra.",
+    "id": 157,
+    "lang": "english",
+    "language_id": 1,
+    "verseNumber": 23,
+    "verse_id": 23
+  },
+  {
+    "authorName": "Swami Adidevananda",
+    "author_id": 18,
+    "description": "Sanjaya said: Thus addressed by Arjuna, Sri Krishna drew up the best of chariots between the two armies, in full view of Bhisma, Drona, and all the other kings, O Dhrtarastra. He then said, \"O Arjuna, behold these assembled Kauravas.\"",
+    "id": 164,
+    "lang": "english",
+    "language_id": 1,
+    "verseNumber": 24,
+    "verse_id": 24
+  },
+  {
+    "authorName": "Swami Adidevananda",
+    "author_id": 18,
+    "description": "Sanjaya said: Thus addressed by Arjuna, Sri Krishna drew up the best of chariots between the two armies, in full view of Bhisma, Drona, and all the other kings, O Dhrtarastra. He then said, \"O Arjuna, behold these assembled Kauravas.\"",
+    "id": 171,
+    "lang": "english",
+    "language_id": 1,
+    "verseNumber": 25,
+    "verse_id": 25
+  },
+  {
+    "authorName": "Swami Adidevananda",
+    "author_id": 18,
+    "description": "Then, as Arjuna looked on, he saw standing there fathers, grandfathers, teachers, uncles, brothers, sons, grandsons, and comrades.",
+    "id": 178,
+    "lang": "english",
+    "language_id": 1,
+    "verseNumber": 26,
+    "verse_id": 26
+  },
+  {
+    "authorName": "Swami Adidevananda",
+    "author_id": 18,
+    "description": "Fathers-in-law and dear friends in both armies, when Arjuna saw all these kinsmen arrayed,",
+    "id": 185,
+    "lang": "english",
+    "language_id": 1,
+    "verseNumber": 27,
+    "verse_id": 27
+  },
+
+  {
+    "authorName": "Swami Adidevananda",
+    "author_id": 18,
+    "description": "He was filled with deep compassion and said these words in despair:",
+    "id": 192,
+    "lang": "english",
+    "language_id": 1,
+    "verseNumber": 28,
+    "verse_id": 28
+  },
+
+  {
+    "authorName": "Swami Gambirananda",
+    "author_id": 19,
+    "description": "And there is trembling in my body, and my hair stands on end; the Gandiva (bow) slips from my hand and my skin burns intensely.",
+    "id": 200,
+    "lang": "english",
+    "language_id": 1,
+    "verseNumber": 29,
+    "verse_id": 29
+  },
+
+  {
+    "authorName": "Swami Adidevananda",
+    "author_id": 18,
+    "description": "The bow Gandiva slips from my hand and my skin is burning. I can no longer stand. My mind seems to be reeling.",
+    "id": 206,
+    "lang": "english",
+    "language_id": 1,
+    "verseNumber": 30,
+    "verse_id": 30
+  },
+
+  {
+    "authorName": "Swami Adidevananda",
+    "author_id": 18,
+    "description": "I see, Kṛṣṇa, inauspicious omens. I foresee no good in slaying my kinsmen in battle.",
+    "id": 213,
+    "lang": "english",
+    "language_id": 1,
+    "verseNumber": 31,
+    "verse_id": 31
+  },
+
+  {
+    "authorName": "Dr. S. Sankaranarayan",
+    "author_id": 20,
+    "description": "For whose sake we seek kingdom, its pleasures and happiness, the very same persons now stand arrayed to fight, giving up their lives and wealth.",
+    "id": 223,
+    "lang": "english",
+    "language_id": 1,
+    "verseNumber": 32,
+    "verse_id": 32
+  },
+
+  {
+    "authorName": "Swami Adidevananda",
+    "author_id": 18,
+    "description": "Those for whose sake we desire empire, enjoyment, and pleasures, stand here in war, renouncing life and wealth.",
+    "id": 227,
+    "lang": "english",
+    "language_id": 1,
+    "verseNumber": 33,
+    "verse_id": 33
+  },
+
+  {
+    "authorName": "Swami Adidevananda",
+    "author_id": 18,
+    "description": "all these are to be regarded as one's own self.\n\nTeachers, fathers, sons, grandfathers, uncles, fathers-in-law, grandsons, brothers-in-law, and other kinsmen—all these are to be regarded as one's own self.",
+    "id": 234,
+    "lang": "english",
+    "language_id": 1,
+    "verseNumber": 34,
+    "verse_id": 34
+  },
+
+  {
+    "authorName": "Swami Adidevananda",
+    "author_id": 18,
+    "description": "I would not slay them, even if they might slay me, for the sovereignty of the three worlds—how much less for this earth, O Krsna?",
+    "id": 241,
+    "lang": "english",
+    "language_id": 1,
+    "verseNumber": 35,
+    "verse_id": 35
+  },
+
+  {
+    "authorName": "Swami Adidevananda",
+    "author_id": 18,
+    "description": "If we were to kill the sons of Dhrtarastra, what joy would be ours, O Krsna? Sin alone would accrue to us if we killed these murderous felons.",
+    "id": 248,
+    "lang": "english",
+    "language_id": 1,
+    "verseNumber": 36,
+    "verse_id": 36
+  },
+
+  {
+    "authorName": "Swami Adidevananda",
+    "author_id": 18,
+    "description": "Therefore, it is not befitting for us to slay our kin, the sons of Dhrtarastra. For if we kill our kinsmen, O Krsna, how can we be happy?",
+    "id": 255,
+    "lang": "english",
+    "language_id": 1,
+    "verseNumber": 37,
+    "verse_id": 37
+  },
+
+  {
+    "authorName": "Swami Adidevananda",
+    "author_id": 18,
+    "description": "Though these people, whose minds are overpowered by greed, see no evil in the destruction of a clan and no sin in treachery to friends,",
+    "id": 262,
+    "lang": "english",
+    "language_id": 1,
+    "verseNumber": 38,
+    "verse_id": 38
+  },
+
+  {
+    "authorName": "Swami Adidevananda",
+    "author_id": 18,
+    "description": "Why should we not learn to shun this crime—we who see the evil of ruining a clan, O Krishna?",
+    "id": 269,
+    "lang": "english",
+    "language_id": 1,
+    "verseNumber": 39,
+    "verse_id": 39
+  },
+
+  {
+    "authorName": "Swami Adidevananda",
+    "author_id": 18,
+    "description": "\n\nWith the ruin of a clan, its ancient traditions perish, and when traditions perish, lawlessness overtakes the whole clan.",
+    "id": 276,
+    "lang": "english",
+    "language_id": 1,
+    "verseNumber": 40,
+    "verse_id": 40
+  },
+
+  {
+    "authorName": "Swami Adidevananda",
+    "author_id": 18,
+    "description": "When lawlessness prevails, O Krsna, the women of the clan become corrupted; when women become corrupted, there arises an intermixing of classes.",
+    "id": 283,
+    "lang": "english",
+    "language_id": 1,
+    "verseNumber": 41,
+    "verse_id": 41
+  },
+
+  {
+    "authorName": "Swami Adidevananda",
+    "author_id": 18,
+    "description": "This mixing of classes leads to hell for the clan itself and its destroyers; for the spirits of their ancestors fall degraded, deprived of the ritual offerings of food and water.",
+    "id": 290,
+    "lang": "english",
+    "language_id": 1,
+    "verseNumber": 42,
+    "verse_id": 42
+  },
+
+  {
+    "authorName": "Swami Adidevananda",
+    "author_id": 18,
+    "description": "By the sins of the clan-destroyers who bring about intermixing of classes, the ancient traditions of the clans and classes are destroyed.",
+    "id": 297,
+    "lang": "english",
+    "language_id": 1,
+    "verseNumber": 43,
+    "verse_id": 43
+  },
+
+  {
+    "authorName": "Swami Adidevananda",
+    "author_id": 18,
+    "description": "For those whose clan laws are destroyed, dwelling in hell is ordained, O Krishna; thus, we have heard.",
+    "id": 304,
+    "lang": "english",
+    "language_id": 1,
+    "verseNumber": 44,
+    "verse_id": 44
+  },
+
+  {
+    "authorName": "Swami Adidevananda",
+    "author_id": 18,
+    "description": "Alas! We have resolved to commit a great sin, for we are ready to slay our kin out of desire for sovereignty and enjoyment.",
+    "id": 311,
+    "lang": "english",
+    "language_id": 1,
+    "verseNumber": 45,
+    "verse_id": 45
+  },
+
+  {
+    "authorName": "Swami Adidevananda",
+    "author_id": 18,
+    "description": "If the well-armed sons of Dhrtarastra should slay me in battle, unresisting and unarmed, that would be better for me.",
+    "id": 318,
+    "lang": "english",
+    "language_id": 1,
+    "verseNumber": 46,
+    "verse_id": 46
+  },
+
+  {
+    "authorName": "Swami Adidevananda",
+    "author_id": 18,
+    "description": "Sanjaya said: Having spoken thus on the battlefield, Arjuna threw aside his bow and arrows and sat down on the chariot seat, his heart overwhelmed with grief.",
+    "id": 325,
+    "lang": "english",
+    "language_id": 1,
+    "verseNumber": 47,
+    "verse_id": 47
+  }
+
+]
